@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ranji/My%20Projects/Projects/HeyDocAI/HeyDocAI/mlruns/710695194022564802/261748692f8a4df88fcae428befbdca3/artifacts
+end_time: 1747974268534
+entry_point_name: ''
+experiment_id: '710695194022564802'
+lifecycle_stage: active
+run_id: 261748692f8a4df88fcae428befbdca3
+run_name: test_run
+run_uuid: 261748692f8a4df88fcae428befbdca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747974268472
+status: 3
+tags: []
+user_id: ranji

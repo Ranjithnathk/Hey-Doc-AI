@@ -1,0 +1,19 @@
+# Python + Hugging Face
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+*.arrow
+*.jsonl
+*.zip
+
+# Virtual environments
+venv/
+.env/
+
+# Model and data artifacts
+/data/
+datasets/
+model/
+logs/
